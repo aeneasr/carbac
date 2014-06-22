@@ -32,4 +32,4 @@ interface HierarchicalRoleInterface extends RoleInterface, \Rbac\Role\Hierarchic
      * @return array|RoleInterface[]|Traversable
      */
     public function getChildren();
-} 
+}

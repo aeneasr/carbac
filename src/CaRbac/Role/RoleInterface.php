@@ -31,4 +31,3 @@ interface RoleInterface extends \Rbac\Role\RoleInterface
      */
     public function getPermissions();
 }
- 
