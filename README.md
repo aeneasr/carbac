@@ -9,3 +9,6 @@ CaRbac is: Context Aware Role Based Access Control implementation for PHP
 
 * `ExactMatchStrategy::areMatching`
  * Lower complexity..
+* More MatchStrategies
+* More TestCases
+* Real world TestCases
